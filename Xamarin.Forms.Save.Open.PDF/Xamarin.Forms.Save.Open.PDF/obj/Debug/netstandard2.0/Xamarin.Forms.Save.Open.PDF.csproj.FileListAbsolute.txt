@@ -1,0 +1,12 @@
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\bin\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.deps.json
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\bin\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.dll
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\bin\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.pdb
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.csprojAssemblyReference.cache
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.csproj.CoreCompileInputs.cache
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.AssemblyInfoInputs.cache
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.AssemblyInfo.cs
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.dll
+F:\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\Xamarin.Forms.Save.Open.PDF\obj\Debug\netstandard2.0\Xamarin.Forms.Save.Open.PDF.pdb
